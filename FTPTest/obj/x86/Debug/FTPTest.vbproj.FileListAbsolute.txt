@@ -1,0 +1,14 @@
+E:\Documents\Visual Studio 2010\Projects\FTPTest\FTPTest\bin\Debug\FTPTest.exe
+E:\Documents\Visual Studio 2010\Projects\FTPTest\FTPTest\bin\Debug\FTPTest.pdb
+E:\Documents\Visual Studio 2010\Projects\FTPTest\FTPTest\bin\Debug\FTPTest.xml
+E:\Documents\Visual Studio 2010\Projects\FTPTest\FTPTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2010\Projects\FTPTest\FTPTest\obj\x86\Debug\FTPTest.Form1.resources
+E:\Documents\Visual Studio 2010\Projects\FTPTest\FTPTest\obj\x86\Debug\FTPTest.Resources.resources
+E:\Documents\Visual Studio 2010\Projects\FTPTest\FTPTest\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documents\Visual Studio 2010\Projects\FTPTest\FTPTest\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Documents\Visual Studio 2010\Projects\FTPTest\FTPTest\obj\x86\Debug\FTPTest.exe
+E:\Documents\Visual Studio 2010\Projects\FTPTest\FTPTest\obj\x86\Debug\FTPTest.xml
+E:\Documents\Visual Studio 2010\Projects\FTPTest\FTPTest\obj\x86\Debug\FTPTest.pdb
+D:\localRepository\FTPTest\FTPTest\obj\x86\Debug\FTPTest.exe
+D:\localRepository\FTPTest\FTPTest\obj\x86\Debug\FTPTest.xml
+D:\localRepository\FTPTest\FTPTest\obj\x86\Debug\FTPTest.pdb
